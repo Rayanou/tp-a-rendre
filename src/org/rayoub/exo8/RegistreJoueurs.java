@@ -3,7 +3,7 @@ package org.rayoub.exo8;
 import java.util.Map;
 import java.util.HashMap;
 import java.util.*;
-/* Q2 : classe RegistreJoueurs + tables de "Hachage" */
+/* Q2  : classe RegistreJoueurs + tables de "Hachage" */
 
 public class RegistreJoueurs {
 

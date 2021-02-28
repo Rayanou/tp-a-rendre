@@ -1,6 +1,6 @@
 package org.rayoub.exo7;
 
-/* Q10 */
+/* Q10  */
 import java.util.*;
 
 public class EquipeLimite{

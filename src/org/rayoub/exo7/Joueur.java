@@ -4,7 +4,7 @@ import java.util.Objects;
 
 public class Joueur implements Comparable<Joueur>{
 
-/* Membres de "Joueur" */
+/*  Membres de "Joueur" */
 	
 private String nom;
 private int age;

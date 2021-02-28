@@ -4,7 +4,7 @@ import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
 
-/*Q5 */
+/*Q5  */
 
 public class Exo7 {
 

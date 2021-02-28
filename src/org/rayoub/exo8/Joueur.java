@@ -2,7 +2,7 @@ package org.rayoub.exo8;
 
 public class Joueur {
 
-	/* Q1 : Classe Joueur possédant les propriétés ; nom, String et année de naissance */
+	/*  Q1 : Classe Joueur possédant les propriétés ; nom, String et année de naissance */
          /* membres attributs */
 	
 	private String nom;
