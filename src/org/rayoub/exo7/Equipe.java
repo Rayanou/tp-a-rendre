@@ -10,13 +10,10 @@ import java.util.*;
 public class Equipe{
 
 	private List<Joueur> joueurs;
-	private Iterator<Joueur> iterator;
-	
-Collection<Joueur>equipe = new ArrayList<>();	
+	Collection<Joueur>equipe = new ArrayList<>();	
 	  
 	  public Equipe() {
 	    joueurs = new LinkedList<Joueur>();
-	    iterator = null;
 	  } 
 
 /* Q3 : addJoueur(), removeJoueur(), isJoueurPresent() */
