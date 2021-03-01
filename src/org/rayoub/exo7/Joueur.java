@@ -9,8 +9,8 @@ public class Joueur implements Comparable<Joueur>{
 
 /*  Membres de "Joueur" */
 	
-private String nom;
-private int age;
+	private String nom;
+	private int age;
 
 // Constructeur de "Joueur" //
 
