@@ -1,3 +1,6 @@
+/*Ayoub TAIHI + Rayane CHIKHI
+  Serie 3 28-02-2021 */
+
 package org.rayoub.exo7;
 
 import java.util.Objects;

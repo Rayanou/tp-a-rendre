@@ -1,5 +1,9 @@
+/*Ayoub TAIHI + Rayane CHIKHI
+  Serie 3 28-02-2021 */
+
 package org.rayoub.exo7;
 
+import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -9,6 +13,8 @@ public class Exo7 {
 
 	
 		  private List<Equipe> equipe;
+		  private Iterator<Equipe> iterator;
+		  
 		  public Exo7() {
 			    equipe = new LinkedList<Equipe>();
 			  } 

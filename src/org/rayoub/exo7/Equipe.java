@@ -1,3 +1,6 @@
+/*Ayoub TAIHI + Rayane CHIKHI
+  Serie 3 28-02-2021 */
+
 package org.rayoub.exo7;
 
 import java.util.List;
@@ -10,6 +13,7 @@ import java.util.*;
 public class Equipe{
 
 	private List<Joueur> joueurs;
+	private Iterator<Joueur> iterator;
 	Collection<Joueur>equipe = new ArrayList<>();	
 	  
 	  public Equipe() {
