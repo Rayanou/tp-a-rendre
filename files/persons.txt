@@ -1,0 +1,9 @@
+# LastName, firstName, age
+# le coach
+Jacquet, Aimé, 79
+# le capitaine
+Deschamps, Didier, 51
+Thuram, Lilian, 48
+# le goal
+Barthez, Fabien, 49
+Zidane, Zinedine, 47
